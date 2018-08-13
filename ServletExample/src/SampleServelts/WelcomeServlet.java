@@ -36,7 +36,7 @@ public class WelcomeServlet implements Servlet {
     @Override
     public void destroy() {
         System.out.println("inside destroy method");
-
+        System.out.println("this is naveen");
         System.out.println("this is srikanth");
     }
 }
